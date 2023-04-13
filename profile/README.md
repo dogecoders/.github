@@ -1,11 +1,15 @@
 # DOGECODERS 🐶
 
-- [@apenasLotus](https://www.github.com/apenasLotus) - Gabriel Vitor
+- [@andreoneres](https:www.github.com/andreoneres) - André Oliveira
 
-- [@devlulcas](https://www.github.com/devlulcas) - Lucas Alves Rego
+- [@apenasLotus](https:www.github.com/apenasLotus) - Gabriel Vitor
 
-- [@EduDevHe](https://www.github.com/EduDevHe) - Eduardo Henrique
+- [@devlulcas](https:www.github.com/devlulcas) - Lucas Alves Rego
 
-- [@kau-gusto](https://www.github.com/kau-gusto) - Kauan Augusto
+- [@EduDevHe](https:www.github.com/EduDevHe) - Eduardo Henrique
 
-- [@Philipelima](https://www.github.com/Philipelima) - Philipe Lima
+- [@kau-gusto](https:www.github.com/kau-gusto) - Kauan Augusto
+
+- [@Philipelima](https:www.github.com/Philipelima) - Philipe Lima
+
+- [@PierreOliveira1](https:www.github.com/PierreOliveira1) - PierreOliveira1
